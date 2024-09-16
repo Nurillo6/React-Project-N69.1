@@ -4,7 +4,9 @@ import "./cars.scss"
 function Cars() {
 
   return (
-    <div className='card-wrapper'>Cars</div>
+    <div className='card-wrapper'>
+        <h2>Cars list</h2>
+    </div>
   )
 }
 
